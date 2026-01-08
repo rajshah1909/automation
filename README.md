@@ -1,4 +1,4 @@
-# automation# Automated Data Collection & Analysis Pipeline
+# Automated Data Collection & Analysis Pipeline
 
 This repository contains an **end-to-end automated data collection and preprocessing pipeline** built to transform raw, messy operational data into **clean, validated, Tableau-ready datasets**.
 
